@@ -3,4 +3,4 @@ project(lbireVoxel)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lbireVoxel main.cpp)
+add_executable(lbireVoxel src/main.cpp)
